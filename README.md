@@ -5,11 +5,11 @@ React Js - BookStore
 https://github.com/fajarbagass/react-ch7-bookstrore.git
 
 ## Open folder
-cd react-ch7-bookstore
+// cd react-ch7-bookstore
 
 ## Run client
-npm start
+// npm start
 
 ## Run Server
-cd server
-npm start
+// cd server
+// npm start
